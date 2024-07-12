@@ -43,6 +43,8 @@ A brief description of what Cool App does and its features.
 - Email: [Your Email Account](mailto:alikasim04451530@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lemesa-kasim-b4b8a3235/)
 - Twitter: [Your Twitter Handle](https://x.com/lammi633482)
+- Another Github Acount: [Git hub](https://github.com/lemesakasim)
+- Portifolio: [My own website](http://lemesa.kesug.com/?i=3)
 
 ## 📘 Latest Blog Posts
 
