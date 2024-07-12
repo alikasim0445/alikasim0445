@@ -40,9 +40,9 @@ A brief description of what Cool App does and its features.
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Email: [Your Email Account](mailto:alikasim04451530@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lemesa-kasim-b4b8a3235/)
+- Twitter: [Your Twitter Handle](https://x.com/lammi633482)
 
 ## 📘 Latest Blog Posts
 
@@ -51,7 +51,7 @@ A brief description of what Cool App does and its features.
 
 ## 🏅 Certifications
 
-- [Certification Name](https://linktocertification.com) - Issued by Issuing Organization
+- [responsive web-design](https://freecodecamp.org/certification/LemesaKasim/responsive-web-design) - Issued by Issuing Organization
 - [Certification Name](https://linktocertification.com) - Issued by Issuing Organization
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
