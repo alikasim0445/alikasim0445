@@ -1,11 +1,11 @@
-# Hello, I'm [Lemesa Kasim] 👋
+# Hello, I'm Lemesa Kasim👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
+<img src="https://imgix.bustle.com/inverse/99/d5/12/3f/6d1f/4e6e/b021/38fe906ed8e7/a-white-hat-hacker-in-action.jpeg?w=564&h=564&fit=crop&crop=faces" alt="Profile Banner" width="464" height="300" style="border-radius: 10px; margin-left:300px" />
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with expertise in both front-end and back-end technologies. I love creating dynamic and responsive web applications that provide seamless user experiences.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alikasim0445&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikasim0445&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
@@ -36,7 +36,7 @@ A brief description of what Cool App does and its features.
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alikasim0445&theme=radical)
 
 ## 📫 How to Reach Me
 
@@ -56,4 +56,4 @@ A brief description of what Cool App does and its features.
 - [responsive web-design](https://freecodecamp.org/certification/LemesaKasim/responsive-web-design) - Issued by Issuing Organization
 - [Certification Name](https://linktocertification.com) - Issued by Issuing Organization
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=alikasim0445&style=flat-square)
