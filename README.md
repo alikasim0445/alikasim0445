@@ -1,6 +1,6 @@
 # Hello, I'm Lemesa Kasim👋
 
-<img src="img/lammi.png" alt="Profile Banner" width="300px" style="border-radius: 10px; margin-left:300px" />
+
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with expertise in both front-end and back-end technologies. I love creating dynamic and responsive web applications that provide seamless user experiences.
 
