@@ -1,27 +1,46 @@
 # Hello, I'm Lemesa Kasim👋
 
-<img src="https://imgix.bustle.com/inverse/99/d5/12/3f/6d1f/4e6e/b021/38fe906ed8e7/a-white-hat-hacker-in-action.jpeg?w=564&h=564&fit=crop&crop=faces" alt="Profile Banner" width="464" height="300" style="border-radius: 10px; margin-left:300px" />
+<img src="img/lammi.png" alt="Profile Banner" width="300px" style="border-radius: 10px; margin-left:300px" />
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with expertise in both front-end and back-end technologies. I love creating dynamic and responsive web applications that provide seamless user experiences.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alikasim0445&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikasim0445&layout=compact&theme=radical)
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
+
+## Languages
+
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
+## Fronted Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## Backend Technologies
+
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Mobile Application
+
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+## Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🌟 Projects
@@ -38,7 +57,7 @@ A brief description of what Cool App does and its features.
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alikasim0445&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alikasim0445&theme=radical)
 
 ## 📫 How to Reach Me
 
