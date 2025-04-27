@@ -67,7 +67,7 @@ A brief description of what Cool App does and its features.
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lemesa-kasim-b4b8a3235/)
 - Twitter: [Your Twitter Handle](https://x.com/lammi633482)
 - Another Github Acount: [Git hub](https://github.com/lemesakasim)
-- Portifolio: [My own website](http://lemesa.kesug.com/?i=3)
+- Portifolio: [My own website](https://lemesa.netlify.app)
 
 ## 📘 Latest Blog Posts
 
